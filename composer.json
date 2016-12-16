@@ -18,7 +18,7 @@
     "bin-dir": "bin"
   },
   "require": {
-    "noeldavies/cards": "v0.3",
+    "noeldavies/cards": "dev-master",
     "phpspec/phpspec": "^3.2",
     "tightenco/collect": "^5.3"
   }
